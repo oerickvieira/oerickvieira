@@ -3,7 +3,7 @@
 > Cientista de Dados formado pela Anhanguera | Graduando em IA e Machine Learning @ UNIASSELVI
 > Focado em **Visão Computacional** e **Desenvolvimento de Aplicações Inteligentes**
 
-📍 Piedade - SP, Brasil | 💼 Buscando oportunidade como Dev / Cientista de Dados / CV Engineer
+📍 SOROCABA - SP, Brasil | 💼 Buscando oportunidade como Dev / Cientista de Dados / CV Engineer
 
 ### 🚀 Sobre mim
 Sou apaixonado por transformar imagens em inteligência. Estudo IA/ML com foco em Visão Computacional, unindo base sólida em Ciência de Dados com Python e matemática aplicada. Gosto de teoria + prática: aprendo um conceito e já coloco no GitHub.
