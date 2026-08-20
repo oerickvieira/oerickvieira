@@ -24,8 +24,8 @@ Sou apaixonado por transformar imagens em inteligência. Estudo IA/ML com foco e
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oerickvieira&layout=compact&theme=tokyonight)
 
 ### 📫 Contato
-- LinkedIn: [seu link aqui]
-- Email: [seu email aqui]
+- LinkedIn: https://www.linkedin.com/in/erickvieira001/
+- Email: contato.erickvieira@gmail.com
 
 ---
 ⭐ *"Teoria te diz o que é possível. Código te mostra como fazer."*
